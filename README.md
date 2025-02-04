@@ -1,17 +1,5 @@
 # dados-cadastro
 
-# Passo 1: Inicializar a conexão
-conexao = conectar_banco()
-
-# Passo 2: Consultar dados
-dados = consultar_dados(conexao)
-
-# Passo 3: Processar os dados
-dados_processados = processar(dados)
-
-# Passo 4: Mostrar resultado
-mostrar_resultado(dados_processados)
-
 
 import tkinter as tk
 # Criar janela principal
